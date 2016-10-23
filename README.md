@@ -1,7 +1,7 @@
 Base
 ==========
 
-This is my HTML5 template for projects.  I use HTML5 Boilerplate plus a simple CSS framework.  I also use Sass.  I'm using a version of Foldy960 from Paravel.
+This is my base template for projects.
 
 ## Setting Up Node & Gulp
 1. __[Install Node](https://nodejs.org/download)__
